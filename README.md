@@ -2,6 +2,8 @@
 
 Python-based simulation and timing-jitter analysis developed during my internship at the **Variable Energy Cyclotron Centre (VECC)** with the **High Energy Physics (HEP) department**.
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rideepkrkakati/trigger-system-jitter-simulation/blob/main/notebooks/Jitter_Ideal_Trigger_v34.ipynb)
+
 This repository contains the **initial-stage work of the project**, developed by me with the help of my project partner **Hiramoni**. The work focuses on simulating an ideal trigger system and studying the effects of different timing-jitter conditions using Python. The project was subsequently taken further through collaboration with other contributors. The later stages and associated work are **not included in this repository**.
 
 ---
