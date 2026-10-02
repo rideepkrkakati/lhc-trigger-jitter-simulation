@@ -103,6 +103,25 @@ The generated simulation and metric datasets are stored as CSV files in the `dat
 
 ---
 
+## How to Run
+
+1. Clone or download this repository.
+
+2. Install the required Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the main notebook:
+```text
+notebooks/Jitter_Ideal_Trigger_v34.ipynb
+```
+
+4. Run the notebook using Jupyter Notebook, JupyterLab, or Google Colab.
+The notebook contains the simulation code used for the initial-stage trigger-system jitter analysis.
+
+---
 
 ## Repository Structure
 
