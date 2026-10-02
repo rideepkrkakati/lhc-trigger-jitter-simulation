@@ -106,7 +106,7 @@ The generated simulation and metric datasets are stored as CSV files in the `dat
 ## Repository Structure
 
 ```text
-lhc-trigger-jitter-simulation/
+trigger-system-jitter-simulation/
 │
 ├── README.md
 ├── LICENSE
