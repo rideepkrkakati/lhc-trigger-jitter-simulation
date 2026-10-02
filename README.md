@@ -115,10 +115,16 @@ trigger-system-jitter-simulation/
 │
 ├── notebooks/
 │   └── Jitter_Ideal_Trigger_v34.ipynb
+│
+├── data/
+│   └── raw/
+│       └── simulation and metric CSV files
+│
+└── results/
 
 ## Acknowledgements
 
-I would like to thank **VECC** and the **High Energy Physics department** for the opportunity to work on this project during my internship.
+I would like to thank **VECC** and the **High Energy Physics Department** for the opportunity to work on this project during my internship.
 
 I would also like to acknowledge my project partner **Hiramoni** for her contributions and support during the development of the initial-stage work.
 
@@ -127,9 +133,3 @@ I would also like to acknowledge my project partner **Hiramoni** for her contrib
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-│
-├── data/
-│   └── raw/
-│       └── simulation and metric CSV files
-│
-└── results/
