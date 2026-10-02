@@ -103,6 +103,7 @@ The generated simulation and metric datasets are stored as CSV files in the `dat
 
 ---
 
+
 ## Repository Structure
 
 ```text
@@ -121,6 +122,8 @@ trigger-system-jitter-simulation/
 │       └── simulation and metric CSV files
 │
 └── results/
+```
+---
 
 ## Acknowledgements
 
