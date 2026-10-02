@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Trigger-System Jitter Simulation"
+message: "If you use this project or its datasets, please cite this repository."
+type: software
+
+authors:
+  - family-names: "Kakati"
+    given-names: "Rideep Kumar"
+
+repository-code: "https://github.com/rideepkrkakati/trigger-system-jitter-simulation"
+
+abstract: "Python-based simulation and timing-jitter analysis developed during an internship at the Variable Energy Cyclotron Centre (VECC) with the High Energy Physics (HEP) department."
+
+keywords:
+  - Python
+  - jitter analysis
+  - trigger system
+  - high energy physics
+  - simulation
+  - VECC
+
+license: MIT
